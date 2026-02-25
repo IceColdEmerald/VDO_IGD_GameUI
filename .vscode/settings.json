@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "VDO_IGD_GameUI.sln"
+    "dotnet.defaultSolution": "VDO_IGD_GameUI.slnx"
 }
