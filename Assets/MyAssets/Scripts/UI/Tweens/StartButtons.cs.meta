@@ -5,7 +5,7 @@ MonoImporter:
   serializedVersion: 2
   defaultReferences:
   - hoverSound: {fileID: 8300000, guid: 86032c21dcbba5e43923e600231ccb6b, type: 3}
-  - clickSound: {fileID: 8300000, guid: 9ff6f5999a9b3b24fa8c5a41025c484b, type: 3}
+  - clickSound: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -34,6 +34,6 @@ public class StartButtons : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        audioSource.PlayOneShot(clickSound);
+        ClickAudio.Instance.PlaySound(clickSound);
     }
 }
